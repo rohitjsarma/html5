@@ -1,0 +1,51 @@
+h2{
+    background-color: rgb(248, 32, 32);
+    color: rgb(16, 16, 16);
+}
+p{
+    color: rgb(68, 0, 255);
+}
+h1{
+    color: blue;
+}
+b{
+    color: red;
+}
+h3{
+    color: chocolate;
+}
+.b1{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    color: black;
+    text-align: center;
+ }
+ .b2{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(30, 0, 255);
+    color: black;
+    text-align: center;
+ }
+ .b3{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(43, 255, 0);
+    color: black;
+    text-align: center;
+ }
+ .b4{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(195, 255, 0);
+    color: black;
+    text-align: center;
+ }
+ .b5{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(18, 138, 178);
+    color: black;
+    text-align: center;
+ }
